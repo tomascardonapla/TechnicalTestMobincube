@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+  <app name="Trucos de magia" mainScreen="1">
+    <screen id="1" type="detail">
+      <container>
+        <text font="Arial" color="000000" weight="bold" backgroundColor="FFFFFF"/>
+        <container>
+          <image url="http://sm.ign.com/ign_es/screenshot/default/harry-potter_7997.jpg" width="800" height="100"/>
+        </container>
+      </container>
+    </screen>
+    <screen id="2" type="contact" contactName="Harry Potter" contactAddress="Callejón Diagon, 1" contactState="London" contactCountry="United Kingdom of Sorcery" contactPostalCode="55555">
+      <info email="hpotter.gryffindor@hogwarts.com" phone="965254512" twitter="nosvamosdepotters"/>
+      <map lng="-0.127758" lat="51.507351"/>
+    </screen>
+  </app>
+</Document>
